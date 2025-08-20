@@ -88,8 +88,9 @@ Your dashboard now shows:
 
 * `amazon.csv` → Original dataset
 * `cleaned_amazon_sales.csv` → Cleaned and filtered dataset (output from Python)
-* `Amazon_Dashboard.xlsx` → Excel dashboard file
+* `Amazon_Dashboard.xlsx` → Excel Workbook file
 
 ---
+
 
 **End Result**: A cleaned dataset ready for analysis + an interactive Excel dashboard with product/category insights.
