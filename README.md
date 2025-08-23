@@ -94,3 +94,9 @@ Your dashboard now shows:
 
 
 **End Result**: A cleaned dataset ready for analysis + an interactive Excel dashboard with product/category insights.
+
+---
+
+**Dataset Source:** [Amazon Sales Dataset by Karkavelrajaj on Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+
+
